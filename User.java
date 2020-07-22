@@ -5,6 +5,10 @@ public class User {
     private int age;
     private int birthday;
     private String password;
+    private int birthday;
+    private String password;
+    private int birthday;
+    private String password;
 
     public String getUsername() {
         return username;
