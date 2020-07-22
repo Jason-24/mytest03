@@ -5,8 +5,7 @@ public class User {
     private int age;
     private int birthday;
     private String password;
-    private int birthday;
-    private String password;
+56464564564
     private int birthday;
     private String password;
 
